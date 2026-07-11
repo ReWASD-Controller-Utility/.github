@@ -71,6 +71,5 @@ Designed specifically for Windows, the software combines controller management, 
 
 ---
 
-## Tags
 
 rewasd download • buy rewasd • rewasd buy • rewasd valorant download
